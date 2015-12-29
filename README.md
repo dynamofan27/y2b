@@ -1,0 +1,1 @@
+Test Yii2. Simple blog.
